@@ -253,7 +253,7 @@ EVENT_ID,EVENT_DESCRIPTION
 4965,IPsec received a packet from a remote computer with an incorrect Security Parameter Index (SPI).
 4976,During Main Mode negotiation IPsec received an invalid negotiation packet.
 4977,During Quick Mode negotiation IPsec received an invalid negotiation packet.
-4978,During Extended Mode negotiation, IPsec received an invalid negotiation packet.
+4978,During Extended Mode negotiation IPsec received an invalid negotiation packet.
 4979,IPsec Main Mode and Extended Mode security associations were established.
 4980,IPsec Main Mode and Extended Mode security associations were established
 4981,IPsec Main Mode and Extended Mode security associations were established
