@@ -251,8 +251,8 @@ EVENT_ID,EVENT_DESCRIPTION
 4963,IPsec dropped an inbound clear text packet that should have been secured
 4964,Special groups have been assigned to a new logon
 4965,IPsec received a packet from a remote computer with an incorrect Security Parameter Index (SPI).
-4976,During Main Mode negotiation, IPsec received an invalid negotiation packet.
-4977,During Quick Mode negotiation, IPsec received an invalid negotiation packet.
+4976,During Main Mode negotiation IPsec received an invalid negotiation packet.
+4977,During Quick Mode negotiation IPsec received an invalid negotiation packet.
 4978,During Extended Mode negotiation, IPsec received an invalid negotiation packet.
 4979,IPsec Main Mode and Extended Mode security associations were established.
 4980,IPsec Main Mode and Extended Mode security associations were established
