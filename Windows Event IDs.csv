@@ -415,5 +415,5 @@ EVENT_ID,EVENT_DESCRIPTION
 6421,A request was made to enable a device
 6422,A device was enabled
 6423,The installation of this device is forbidden by system policy
-6424,The installation of this device was allowed, after having previously been forbidden by policy
+6424,The installation of this device was allowed after having previously been forbidden by policy
 8191,Highest System-Defined Audit Message Value
